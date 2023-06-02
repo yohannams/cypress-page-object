@@ -3,7 +3,7 @@ class baseLogin {
   password = "#Password";
   rememberMe = "#RememberMe";
   loginBtn = "form > .buttons > .button-1";
-  logoutBtn = ".ico-logout";
+  logoutMenu = ".ico-logout";
   loginMenu = ".ico-login";
 }
 export default baseLogin;
